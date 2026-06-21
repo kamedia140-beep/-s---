@@ -2,11 +2,11 @@ import 'dotenv/config';
 const _prefixes = process.env.PREFIXES ? process.env.PREFIXES.split(',') : ['.', '!', '/', '#'];
 const config = {
     // Bot Identity
-    botName: process.env.BOT_NAME || 'MEGA-MD',
-    botOwner: process.env.BOT_OWNER || 'Qasim Ali',
+    botName: process.env.BOT_NAME || 'sᴜᴘʀᴇᴍᴇ ᴀʟɪ ʙᴏᴛ',
+    botOwner: process.env.BOT_OWNER || '𝗞.𝗔 ᴛᴇᴄʜ',
     ownerNumber: process.env.OWNER_NUMBER || '923051391007',
     author: process.env.AUTHOR || 'GlobalTechInfo',
-    packname: process.env.PACKNAME || 'MEGA-MD',
+    packname: process.env.PACKNAME || 'sᴜᴘʀᴇᴍᴇ ᴀʟɪ ʙᴏᴛ',
     description: process.env.DESCRIPTION || 'High performance multi-device WhatsApp bot',
     version: '6.0.0',
     // Bot Config
@@ -15,7 +15,7 @@ const config = {
     commandMode: process.env.COMMAND_MODE || 'public',
     timeZone: process.env.TIMEZONE || 'Asia/Karachi',
     // Links
-    channelLink: process.env.CHANNEL_LINK || 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07',
+    channelLink: process.env.CHANNEL_LINK || 'https://whatsapp.com/channel/0029Vb7srb0GE56kkNfxIz0R',
     updateZipUrl: process.env.UPDATE_URL || 'https://github.com/GlobalTechInfo/MEGA-MD/archive/refs/heads/main.zip',
     ytChannel: process.env.YT_CHANNEL || 'GlobalTechInfo',
     // Session

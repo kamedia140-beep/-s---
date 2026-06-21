@@ -74,7 +74,7 @@ try {
 catch {
     owner = [];
 }
-global.botname = config.botName || "MEGA-MD";
+global.botname = config.botName || "𝗦𝗨𝗣𝗥𝗘𝗠𝗘 𝗔𝗟𝗜";
 global.themeemoji = "•";
 const pairingCode = !process.argv.includes("--qr-code");
 const useMobile = process.argv.includes("--mobile");
@@ -293,7 +293,7 @@ async function startQasimDev() {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363319098372999@newsletter',
-                                    newsletterName: 'GlobalTechInc',
+                                    newsletterName: '𝗞.𝗔 ᴛᴇᴄʜ',
                                     serverMessageId: -1
                                 }
                             }
@@ -448,7 +448,7 @@ async function startQasimDev() {
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
                                 newsletterJid: '120363319098372999@newsletter',
-                                newsletterName: 'GlobalTechInc',
+                                newsletterName: '𝗞.𝗔 ᴛᴇᴄʜ',
                                 serverMessageId: -1
                             }
                         }

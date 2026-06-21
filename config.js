@@ -5,7 +5,7 @@ const config = {
     botName: process.env.BOT_NAME || 'sᴜᴘʀᴇᴍᴇ ᴀʟɪ ʙᴏᴛ',
     botOwner: process.env.BOT_OWNER || '𝗞.𝗔 ᴛᴇᴄʜ',
     ownerNumber: process.env.OWNER_NUMBER || '923051391007',
-    author: process.env.AUTHOR || 'GlobalTechInfo',
+    author: process.env.AUTHOR || '𝗞.𝗔 ᴛᴇᴄʜ',
     packname: process.env.PACKNAME || 'sᴜᴘʀᴇᴍᴇ ᴀʟɪ ʙᴏᴛ',
     description: process.env.DESCRIPTION || 'High performance multi-device WhatsApp bot',
     version: '6.0.0',
@@ -15,9 +15,9 @@ const config = {
     commandMode: process.env.COMMAND_MODE || 'public',
     timeZone: process.env.TIMEZONE || 'Asia/Karachi',
     // Links
-    channelLink: process.env.CHANNEL_LINK || 'https://whatsapp.com/channel/0029Vb7srb0GE56kkNfxIz0R',
+    channelLink: process.env.CHANNEL_LINK 'https://whatsapp.com/channel/0029Vb7srb0GE56kkNfxIz0R',
     updateZipUrl: process.env.UPDATE_URL || 'https://github.com/GlobalTechInfo/MEGA-MD/archive/refs/heads/main.zip',
-    ytChannel: process.env.YT_CHANNEL || 'GlobalTechInfo',
+    ytChannel: process.env.YT_CHANNEL || '𝗞.𝗔 ᴛᴇᴄʜ',
     // Session
     sessionId: process.env.SESSION_ID || '',
     pairingNumber: process.env.PAIRING_NUMBER || '',

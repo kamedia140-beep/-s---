@@ -5,11 +5,11 @@ import config from '../config.js';
  *                                                                           *
  *  🌐  GitHub   : https://github.com/GlobalTechInfo                         *
  *  ▶️  YouTube  : https://youtube.com/@GlobalTechInfo                       *
- *  💬  WhatsApp : https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07     *
+ *  💬  WhatsApp : https://whatsapp.com/channel/0029Vb7srb0GE56kkNfxIz0R     *
  *                                                                           *
- *    © 2026 GlobalTechInfo. All rights reserved.                            *
+ *    © 2026 𝗞.𝗔 ᴛᴇᴄʜ. All rights reserved.                            *
  *                                                                           *
- *    Description: This file is part of the MEGA-MD Project.                 *
+ *    Description: This file is part of the 𝗞.𝗔 ᴛᴇᴄʜ Project.                 *
  *                 Unauthorized copying or distribution is prohibited.       *
  *                                                                           *
  *****************************************************************************/
@@ -29,7 +29,7 @@ function formatTime() {
 const menuStyles = [
     {
         render({ _title, info, categories, prefix }) {
-            let t = `╭━━『 *MEGA MENU* 』━⬣\n`;
+            let t = `╭━━『 *𝗦𝗨𝗣𝗥𝗘𝗠𝗘 𝗔𝗟𝗜* 』━⬣\n`;
             t += `┃ ✨ *Bot: ${info.bot}*\n`;
             t += `┃ 🔧 *Prefix: ${info.prefix}*\n`;
             t += `┃ 📦 *Plugin: ${info.total}*\n`;
@@ -46,7 +46,7 @@ const menuStyles = [
     },
     {
         render({ _title, info, categories, prefix }) {
-            let t = `◈╭─❍「 *MEGA MENU* 」❍\n`;
+            let t = `◈╭─❍「 *𝗦𝗨𝗣𝗥𝗘𝗠𝗘 𝗔𝗟𝗜* 」❍\n`;
             t += `◈├• 🌟 *Bot: ${info.bot}*\n`;
             t += `◈├• ⚙️ *Prefix: ${info.prefix}*\n`;
             t += `◈├• 🍫 *Plugins: ${info.total}*\n`;

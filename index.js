@@ -516,7 +516,7 @@ async function startQasimDev() {
 async function main() {
     await compileAll();
     await commandHandler.loadCommands();
-    printLog('info', 'Starting MEGA MD BOT...');
+    printLog('info', 'Starting 𝗦𝗨𝗣𝗥𝗘𝗠𝗘 𝗔𝗟𝗜...');
     await initializeSession();
     await delay(3000);
     startQasimDev().catch((error) => {
